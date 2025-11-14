@@ -1,0 +1,22 @@
+🎉 Completed: Active Directory Basics – TryHackMe
+
+I’ve just finished the Active Directory Basics room on TryHackMe! 🚀
+This module introduced the core concepts behind Active Directory (AD)—one of the most essential components in enterprise Windows environments.
+
+🔐 Key Takeaways:
+
+Understanding what Active Directory is and why organizations rely on it
+
+Learning how domains, forests, OUs, and trust relationships work
+
+Basics of Group Policy, authentication, and directory structure
+
+How AD helps manage users, systems, and security in a centralized way
+
+This room gave me a solid foundation for exploring more advanced topics like Privilege Escalation, Kerberoasting, and Windows domain attacks.
+
+🧠 Why This Matters:
+Active Directory knowledge is crucial for cybersecurity, system administration, red teaming, and blue teaming. Gaining clarity on AD architecture helps in both attacking and defending enterprise environments.
+
+🔗 Explore the room: Active Directory Basics – TryHackMe
+#TryHackMe #CyberSecurity #ActiveDirectory #LearningInPublic #Infosec #WindowsSecurity #BlueTeam #RedTeam

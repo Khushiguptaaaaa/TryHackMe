@@ -1,0 +1,76 @@
+🎉 I just completed the “Wireshark: The Basics” room on TryHackMe! 🕵️‍♂️🔍
+Learned how to capture, analyse, and understand network traffic using Wireshark.
+
+This room helped me strengthen my foundations in packet analysis — an essential skill for anyone exploring cybersecurity, networking, or digital forensics.
+
+🔹 Key Skills & Concepts I Learned
+
+📌 Understanding the Wireshark Interface
+
+Layout of the packet list, packet details, and packet bytes
+
+How to efficiently navigate through captures
+
+📌 Applying Display & Capture Filters
+
+Difference between display filters (http, tcp.port == 443, ip.addr == X.X.X.X, etc.)
+
+How to isolate relevant traffic quickly
+
+📌 Analysing Common Protocols
+
+TCP/UDP structure, handshake, flags
+
+HTTP requests & responses
+
+DNS queries & answers
+
+Identifying unusual or suspicious packets
+
+📌 Working with PCAP Files
+
+Opening and interpreting pre-captured network traffic
+
+Following TCP streams to rebuild conversations
+
+Identifying patterns, anomalies, and potential indicators of compromise
+
+📌 Basic Network Forensics
+
+Tracking endpoints
+
+Inspecting packet payloads
+
+Extracting useful information from captures
+
+🔹 Why This Matters
+
+Wireshark is one of the most powerful tools in cybersecurity. Mastering the basics opens up pathways into:
+
+Network analysis
+
+Incident response
+
+Threat hunting
+
+Digital forensics
+
+Penetration testing
+
+This room gave me a strong foundation to move forward into more advanced traffic analysis and protocol-level investigations.
+
+🚀 What’s Next?
+
+I’ll be continuing with more TryHackMe rooms focusing on:
+
+Network security
+
+Traffic investigation
+
+Packet crafting
+
+Intrusion detection systems
+
+🔗 If you're getting into cybersecurity, I highly recommend trying this room — it’s beginner-friendly and extremely practical.
+
+#TryHackMe #Wireshark #CyberSecurity #Networking #LearningInPublic #NetworkAnalysis #DigitalForensics #CyberSkills #PacketAnalysis

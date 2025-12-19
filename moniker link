@@ -1,0 +1,31 @@
+🚨 TryHackMe Achievement | Moniker Link (CVE-2024-21413) 🚨
+
+I’ve successfully completed the Moniker Link (CVE-2024-21413) room on TryHackMe, where I explored a critical vulnerability affecting Microsoft Outlook’s Protected View.
+
+🔍 What I learned:
+
+Understanding CVE-2024-21413 and how it abuses Moniker Links
+
+How attackers can bypass Outlook’s Protected View
+
+Techniques to leak user credentials without triggering traditional security warnings
+
+The real-world impact of email-based attack vectors
+
+Why user awareness alone is not enough against advanced phishing techniques
+
+⚠️ This vulnerability highlights how trusted applications like Outlook can be exploited to perform credential harvesting attacks, reinforcing the importance of:
+
+Timely patching
+
+Secure email handling
+
+Defensive security testing
+
+🛡️ Hands-on labs like these strengthen my understanding of offensive security techniques, helping me think like an attacker to defend better.
+
+📌 Platform: TryHackMe
+📌 Topic: CVE-2024-21413 | Outlook Protected View Bypass
+📌 Skills: Vulnerability Analysis, Credential Harvesting, Email Security, Cybersecurity Fundamentals
+
+#CyberSecurity #TryHackMe #CVE #EthicalHacking #BlueTeam #RedTeam #InfoSec #LearningByDoing #OutlookSecurity #SOC #VulnerabilityResearch

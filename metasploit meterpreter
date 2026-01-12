@@ -1,0 +1,27 @@
+🚀 Just Completed: Metasploit – Meterpreter on TryHackMe! 🔐
+
+I’ve successfully completed the Metasploit: Meterpreter room on TryHackMe, where I took a deep dive into one of the most powerful post-exploitation tools used in penetration testing.
+
+🔍 Key learnings from this hands-on lab:
+
+Understanding Meterpreter and how it operates as an advanced in-memory payload
+
+How in-memory execution helps evade disk-based detection
+
+Exploring post-exploitation capabilities like:
+
+System and process interaction
+
+Privilege escalation concepts
+
+File system and network enumeration
+
+Gaining practical exposure to real-world offensive security techniques
+
+This lab strengthened my understanding of how attackers maintain access after exploitation and how defenders should think from an attacker’s perspective to better secure systems.
+
+💡 Continuous learning and hands-on practice are essential in the field of Cyber Security & Ethical Hacking, and TryHackMe provides an excellent platform for that journey.
+
+Excited to keep learning and exploring more advanced topics! 🚀
+
+#TryHackMe #CyberSecurity #EthicalHacking #Metasploit #Meterpreter #PenetrationTesting #InfoSec #LearningByDoing #CTF
